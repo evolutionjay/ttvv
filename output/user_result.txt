@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2024-12-31 18:24:06,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
+2025-01-01 06:18:36,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 📡卫视频道,#genre#
 广东卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225597/2/index.m3u8$订阅源-IPv6
@@ -13,3 +13,9 @@
 🌊港·澳·台,#genre#
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$订阅源
+纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源
